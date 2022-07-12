@@ -28,7 +28,7 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/benahmetcelik"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="benahmetcelik" /></a></p><br><br>
-
+[![benahmetcelik's GitHub stats](https://github-readme-stats.vercel.app/api?username=benahmetcelik&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benahmetcelik&show_icons=true&locale=en&layout=compact" alt="benahmetcelik" />
   </p>
