@@ -39,4 +39,4 @@
  </p>
  <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benahmetcelik&" alt="benahmetcelik" /></p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
