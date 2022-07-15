@@ -40,3 +40,5 @@
  <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benahmetcelik&" alt="benahmetcelik" /></p>
 
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="benahmetcelik" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/benahmetcelik?trk=profile-badge">Ahmet ÇELİK</a></div>
+              
