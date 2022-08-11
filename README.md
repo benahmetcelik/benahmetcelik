@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **VueJs-Agency-Script**
 
-- 🌱 I’m currently learning **VUE and PERL**
+- 🌱 I’m currently learning **VUE and Details For Laravel**
 
 - 💬 Ask me about **laravel**
 
