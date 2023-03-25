@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My Fun Project**
 
-- 🌱 I’m currently learning **VUE and Details For Laravel**
+- 🌱 I’m currently learning **React and Details For Laravel**
 
 - 💬 Ask me about **laravel**
 
